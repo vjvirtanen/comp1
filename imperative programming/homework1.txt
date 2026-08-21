@@ -1,0 +1,4 @@
+1. fundamental operations include adding and comparing values
+examples of compound operations are finding patterns in data and simulating actions
+2. compiler translates the program into machine code 
+3. constant should be used for values that need to be the same for the program
